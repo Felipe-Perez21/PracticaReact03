@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #f4eb04  ;
+  min-height: 25vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #fff;
+}
+
+.App-logo {
+  height: 20vmin;
+  pointer-events: none;
+}
+
+.Containers{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  margin-bottom: 5vmin;
+}
+
+.Libros, .Lista {
+  margin-top: 50px;
+}
+
+.table {
+  width: 100%;
+  margin-bottom: 1rem;
+  color: #212529;
+}
+
+.btn{
+  background-color: #32a858;
+  border-color: #32a858;
+}
+
+.btn2{
+  background-color: #eb4334;
+  border-color: #eb4334;
+}
