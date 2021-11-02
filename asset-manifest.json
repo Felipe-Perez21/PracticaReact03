@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/PracticaReact03/static/css/main.82e86a48.chunk.css",
+    "main.js": "/PracticaReact03/static/js/main.46ed455a.chunk.js",
+    "main.js.map": "/PracticaReact03/static/js/main.46ed455a.chunk.js.map",
+    "runtime-main.js": "/PracticaReact03/static/js/runtime-main.e5ad6882.js",
+    "runtime-main.js.map": "/PracticaReact03/static/js/runtime-main.e5ad6882.js.map",
+    "static/js/2.56cf89f0.chunk.js": "/PracticaReact03/static/js/2.56cf89f0.chunk.js",
+    "static/js/2.56cf89f0.chunk.js.map": "/PracticaReact03/static/js/2.56cf89f0.chunk.js.map",
+    "static/js/3.9f9ec0d9.chunk.js": "/PracticaReact03/static/js/3.9f9ec0d9.chunk.js",
+    "static/js/3.9f9ec0d9.chunk.js.map": "/PracticaReact03/static/js/3.9f9ec0d9.chunk.js.map",
+    "index.html": "/PracticaReact03/index.html",
+    "static/css/main.82e86a48.chunk.css.map": "/PracticaReact03/static/css/main.82e86a48.chunk.css.map",
+    "static/js/2.56cf89f0.chunk.js.LICENSE.txt": "/PracticaReact03/static/js/2.56cf89f0.chunk.js.LICENSE.txt",
+    "static/media/gandhi_logo.0695d82e.jpg": "/PracticaReact03/static/media/gandhi_logo.0695d82e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5ad6882.js",
+    "static/js/2.56cf89f0.chunk.js",
+    "static/css/main.82e86a48.chunk.css",
+    "static/js/main.46ed455a.chunk.js"
+  ]
+}
